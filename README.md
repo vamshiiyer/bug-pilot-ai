@@ -70,4 +70,4 @@ npx vercel --prod
 
 ---
 
-Built by [@vamshiiyer](https://github.com/vamshiiyer) · Powered by [Anthropic Claude](https://anthropic.com)
+Built by [@vamshiiyer](https://github.com/vamshiiyer) · 
